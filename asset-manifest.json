@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/mapbox-gl-draw-circle-test/static/css/main.2cce8147.chunk.css",
-    "main.js": "/mapbox-gl-draw-circle-test/static/js/main.f64dc566.chunk.js",
-    "main.js.map": "/mapbox-gl-draw-circle-test/static/js/main.f64dc566.chunk.js.map",
-    "runtime~main.js": "/mapbox-gl-draw-circle-test/static/js/runtime~main.f83f99bd.js",
-    "runtime~main.js.map": "/mapbox-gl-draw-circle-test/static/js/runtime~main.f83f99bd.js.map",
-    "static/css/2.f2c1b0e7.chunk.css": "/mapbox-gl-draw-circle-test/static/css/2.f2c1b0e7.chunk.css",
-    "static/js/2.e675f0e4.chunk.js": "/mapbox-gl-draw-circle-test/static/js/2.e675f0e4.chunk.js",
-    "static/js/2.e675f0e4.chunk.js.map": "/mapbox-gl-draw-circle-test/static/js/2.e675f0e4.chunk.js.map",
-    "index.html": "/mapbox-gl-draw-circle-test/index.html",
-    "precache-manifest.c4149aeeae43c7d678634cbf930c59e7.js": "/mapbox-gl-draw-circle-test/precache-manifest.c4149aeeae43c7d678634cbf930c59e7.js",
-    "service-worker.js": "/mapbox-gl-draw-circle-test/service-worker.js",
-    "static/css/2.f2c1b0e7.chunk.css.map": "/mapbox-gl-draw-circle-test/static/css/2.f2c1b0e7.chunk.css.map",
-    "static/css/main.2cce8147.chunk.css.map": "/mapbox-gl-draw-circle-test/static/css/main.2cce8147.chunk.css.map"
+    "main.css": "/tod-hk/static/css/main.2cce8147.chunk.css",
+    "main.js": "/tod-hk/static/js/main.f64dc566.chunk.js",
+    "main.js.map": "/tod-hk/static/js/main.f64dc566.chunk.js.map",
+    "runtime~main.js": "/tod-hk/static/js/runtime~main.f83f99bd.js",
+    "runtime~main.js.map": "/tod-hk/static/js/runtime~main.f83f99bd.js.map",
+    "static/css/2.f2c1b0e7.chunk.css": "/tod-hk/static/css/2.f2c1b0e7.chunk.css",
+    "static/js/2.e675f0e4.chunk.js": "/tod-hk/static/js/2.e675f0e4.chunk.js",
+    "static/js/2.e675f0e4.chunk.js.map": "/tod-hk/static/js/2.e675f0e4.chunk.js.map",
+    "index.html": "/tod-hk/index.html",
+    "precache-manifest.c4149aeeae43c7d678634cbf930c59e7.js": "/tod-hk/precache-manifest.c4149aeeae43c7d678634cbf930c59e7.js",
+    "service-worker.js": "/tod-hk/service-worker.js",
+    "static/css/2.f2c1b0e7.chunk.css.map": "/tod-hk/static/css/2.f2c1b0e7.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/tod-hk/static/css/main.2cce8147.chunk.css.map"
   }
 }
